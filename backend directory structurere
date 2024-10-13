@@ -1,0 +1,16 @@
+backend/
+│
+├── models/
+│   ├── User.js
+│   └── Task.js
+│
+├── routes/
+│   ├── authRoutes.js
+│   └── taskRoutes.js
+│
+├── middleware/
+│   └── authMiddleware.js
+│
+├── .env
+├── server.js
+└── package.json
