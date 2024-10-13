@@ -1,0 +1,20 @@
+frontend/
+│
+├── public/                 # Publicly accessible files (HTML, images)
+│   ├── index.html          # Main HTML file
+│   └── favicon.ico         # Favicon
+│
+├── src/                    # Main source files for React application
+│   ├── components/         # Reusable components
+│   │   ├── Auth.js         # Authentication component (login/register)
+│   │   ├── Task.js         # Task management component
+│   │   └── TaskList.js     # Component to list all tasks
+│   │
+│   ├── App.js              # Main application component
+│   ├── App.css             # Styling for the main application
+│   ├── index.js            # Entry point for React
+│   └── api.js              # Axios instance for API calls
+│
+├── .env                    # Environment variables (API endpoint)
+├── package.json            # Node.js dependencies and scripts
+└── README.md               # Project documentation
