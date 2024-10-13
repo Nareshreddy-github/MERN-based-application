@@ -1,0 +1,18 @@
+Project Overview
+Prerequisites
+Backend Setup
+1. Initialize the Backend
+2. Install Dependencies
+3. Configure Environment Variables
+4. Define Models
+5. Create Middleware
+6. Develop Controllers
+7. Set Up Routes
+8. Initialize the Server
+Frontend Setup
+1. Initialize the Frontend
+2. Install Dependencies
+3. Configure Axios
+4. Create Components and Pages
+5. Implement Routing and Protected Routes
+6. Develop the Dashboard
